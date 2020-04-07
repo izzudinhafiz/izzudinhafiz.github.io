@@ -156,6 +156,7 @@ main {
 .content {
   width: 60%;
   padding: 1rem;
+  text-align: justify;
 }
 
 .page-nav {
@@ -228,10 +229,11 @@ main {
 
   .main-content {
     display: block;
+    width: 100%;
   }
 
   .content {
-    width: 100%;
+    width: auto;
   }
 
   .page-nav {
