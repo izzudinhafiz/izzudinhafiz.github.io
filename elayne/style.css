@@ -164,6 +164,10 @@ main {
   padding: 1rem;
 }
 
+.left-line {
+  border-left: 2px solid var(--color02);
+}
+
 .main-title {
   margin-top: auto;
   font-weight: bold;
